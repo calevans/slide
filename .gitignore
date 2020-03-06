@@ -2,3 +2,5 @@
 /.svn
 /index.js*
 /node_modules
+
+/vendor/
