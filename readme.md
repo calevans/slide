@@ -26,3 +26,7 @@ Report issues, or collaborate, on [Github](https://github.com/ellatrix/slides/is
 * It's possible to include some notes with every slide.
 * You can enter a speaker view which will show the current slide, next slide, notes and timers.
 * A lot more options coming soon!
+
+## Note from Cal Evans
+
+I did not write this plugin. It is under my namespace only because I do not control the wordpress namespace so I do not want to put things in their namespace. I will hapily remove this from github if WordPress would just put a composer.json file in theirs so we could install it via composer.
