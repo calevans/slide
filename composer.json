@@ -1,0 +1,6 @@
+{
+    "name": "calevans/slides",
+    "description": "A composer loadable version of Slides & Presentations",
+    "type": "wordpress-plugin",
+    "require": {}
+}
